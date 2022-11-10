@@ -2,7 +2,7 @@
 
 
 
-- 🚀 Java, Banco de Dados , começando no C#...
+- 🚀 Java, Banco de Dados , c#, JS...
 - 📫Contato: gdbarbieri33@gmail.com
 - 😄 Pronomes: Ele/Dele
 
