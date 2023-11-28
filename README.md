@@ -13,3 +13,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gdbarbieri&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="gdbarbieri" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gdbarbieri&show_icons=true&theme=tokyonight&locale=en" alt="gdbarbieri" /></p>
+<img align="center" alt="Coding" width="500" src="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
