@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Guilherme Barbieri</h1>
-<p align="center"> <img align="center" alt="Coding" width="200" height="200"  src="240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif"></p>
+<p align="center"> <img align="center" alt="Coding" width="500" height="300"  src="240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif"></p>
 <h3 align="center">Desenvolvedor Front-End</h3>
 
 <h3 align="left">Connect with me:</h3>
